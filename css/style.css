@@ -53,7 +53,7 @@ td {
 }
 
 a:link {
-  color: #CDDDDD;
+  color: #C1CCBD;
   text-decoration: none;
 }
 
@@ -93,7 +93,7 @@ a:hover {
   background-color: #FAF3DD;
   border: 1px;
   border-radius: 3px;
-  box-shadow: 4px;
+  box-shadow: 10px;
   text-align: center;
   margin: 20px;
   padding: 10px;
